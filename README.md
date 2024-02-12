@@ -11,3 +11,5 @@ This automation will carry out various E2E tasks and validate table data
 3. Setup a Docker instance of ***Open Search*** Dashobard
 
 3. To run all tests use `npm run test:e2e`
+
+4. TBD
